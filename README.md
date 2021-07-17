@@ -1,6 +1,6 @@
 # Deep-Learning-with-Pytorch
 
-This repository contains implementations of some examples of [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks) by Francois Chollet in Pytorch.
+This repository contains implementations of some examples of [Deep Learning with Python (1st Edition)](https://github.com/fchollet/deep-learning-with-python-notebooks) by Francois Chollet in Pytorch.
 
 The examples present basic neural network concepts like convolutional neural networks, recurrent neural networks, data augmentation and transfer learning and utilize torch concepts like dataloaders and custom datasets.
 
